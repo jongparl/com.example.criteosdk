@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         criteoEventService.setLanguage("fr");
 
         // Overrides the default account name with the provided value
+        // change on 1004 2nd
         criteoEventService.setAccountName("com.example.test");
 
         // Assign Button resources
