@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Overrides the default account name with the provided value
         // change on 1004 2nd
+        // change 3rd
         criteoEventService.setAccountName("com.example.test");
 
         // Assign Button resources
